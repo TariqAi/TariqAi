@@ -15,7 +15,7 @@ better version of myself every day.
 
 - 👨‍💻 All of my projects are available at my [GitHub](https://github.com/TariqAi)
 
-- 📫 Reach me at **Tariq.The.Ai@gmail.com**
+- 📫 Reach me at **Tariq.The.Ai@outlook.com**
 
 - 📄 Checkout my [Portfolio](https://SOOON-portfolio-main-5d6upa.streamlit.app/)
 
