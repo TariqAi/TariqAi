@@ -5,7 +5,7 @@
 <br />
 
 <img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="310" /> 
-Data analytics, passion for learning.
+Data analyst, passion for learning.
 I've took many certificates in courses that related to my major, I like to avail my time. 
 I am also a productive person who can work efficient, I aim to keep learning and become a
 better version of myself every day. 
