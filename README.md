@@ -17,7 +17,7 @@ better version of myself every day.
 
 - 📫 Reach me at **Tariq.The.Ai@outlook.com**
 
-- 📄 Checkout my [Portfolio](https://SOOON-portfolio-main-5d6upa.streamlit.app/)
+- 📄 Checkout my [Portfolio](https://tariqai.github.io/TariqIbrahim/)
 
 
 <br>
@@ -28,7 +28,7 @@ better version of myself every day.
 
 
  <p align="left">
-      <a href="https://www.linkedin.com/in/SOON/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="padding-right: 100px;"></a>
+      <a href="https://www.linkedin.com/in/tariq-ibrahim/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="padding-right: 100px;"></a>
   &nbsp; &nbsp; 
       <a href="https://www.kaggle.com/SOON" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" style="padding-right: 100px;"></a>
   &nbsp; &nbsp;
