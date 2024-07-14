@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> Hi, I'm Tariq Ibrahim</h1>
 
-<h3 align="center">Data Scientist & Machine Learning Engineer</h3>
+<h3 align="center">Data Scientist & Machine Learning Engineer & Deep Learning & NLP</h3>
 
 <br />
 
