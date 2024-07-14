@@ -11,7 +11,7 @@ I am also a productive person who can work efficient, I aim to keep learning and
 better version of myself every day. 
 
 
-- 🌱 I'm currently learning **Deep Learnig**
+- 🌱 I'm currently learning **NLP + Computer Vision**
 
 - 👨‍💻 All of my projects are available at my [GitHub](https://github.com/TariqAi)
 
