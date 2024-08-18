@@ -17,7 +17,7 @@ better version of myself every day.
 
 - 📫 Reach me at **Tariq.The.Ai@outlook.com**
 
-- 📄 Checkout my [Portfolio](https://tariqai.github.io/TariqIbrahim/)
+- 📄 Checkout my [Portfolio](https://tariqai.github.io/TariqIbrahim/) #OLD
 
 
 <br>
